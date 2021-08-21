@@ -8,3 +8,5 @@ Then we concatenate these maps with Res5 Block (WHERE IS THIS COMING FROM?)
 
 Then we perform the above steps (EXPLAIN THESE STEPS)
 And then we are finally left with the panoptic segmentation
+
+![image](https://user-images.githubusercontent.com/50147394/130328616-0c7c424e-7a68-45a0-88db-5b310f790b8e.png)
